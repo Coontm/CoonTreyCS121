@@ -1,0 +1,1 @@
+In this package I was able to sharpen my programming skills by creating an activity that totaled a score for book club purchases. The hardest part about this activity was the values and getting them to display properly.
