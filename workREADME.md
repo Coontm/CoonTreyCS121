@@ -1,1 +1,1 @@
-Learned how to implement average scoring output in the form of tests and how many books an individual purchased at a book club.
+Learned how to implement average scoring output in the form of tests and how many books an individual purchased at a book club. I struggled at times with getting the proper values to output when totaling the books purchased. Further in the development process I was able to catch my mistakes and turn in a efficiently working program.
