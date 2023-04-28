@@ -1,0 +1,1 @@
+In this package my triangle selector resides. Alongside this, is also my activity 9 code. Both activities were a fun time, I especially liked the triangle selector which seems like a difficult task to be done but in reality is just a few integers being read then providing an output based on those. 
