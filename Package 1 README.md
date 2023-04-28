@@ -1,1 +1,1 @@
-egreegegegege
+In this package I was able to sharpen my programming skills by creating an activity that consisted of a pokemon game. The game was very interactive and simple to code. Unlike my other packages, I did not run into many problems within. This was a very fun project to complete and I would love to do something similar in the future.
