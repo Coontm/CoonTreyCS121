@@ -1,5 +1,1 @@
-| Package Name | Description | Number|
-| ------------ |-------------|-------|          
-|  [Activities 21+22](https://github.com/Coontm/CoonTreyCS121/blob/main/act21p1.java)           |   Made progress implementing a function that deals with someoneon's address, name, and age.          |       |
-|  Activity 2 Part 1 and Part 2           |  Learned how to implement average scoring output in the form of tests and how many books an individual purchased at a book club.           |       |
-| Project 1             |             |       |
+In this package, my arrays, StudentData, and EvenorOdd activities reside. This package was a fun one to put together, the even or odd activity was straightforward and one of the first activities we did this semester. The studentData activity was the hardest out of the three, I had a tough time assigning certain things to certain places but in the end prevailed with a working and interactive activity.
