@@ -1,5 +1,1 @@
-| Package Name | Description | Number|
-| ------------ |-------------|-------|          
-|  [Activities 21+22](https://github.com/Coontm/CoonTreyCS121/blob/main/act21p1.java)           |   Made progress implementing a function that deals with someoneon's address, name, and age.          |       |
-|  Activity 2 Part 1 and Part 2           |  Learned how to implement average scoring output in the form of tests and how many books an individual purchased at a book club.           |       |
-| Project 1             |             |       |
+In my 5th package of my portfolio, I have my palindrome, pokemonSelector, and restaurantSelector as my given activities. I enjoyed this package because of the programming process of having it select an output based on variable given by the user. I found the restaurant selector more challenging because of the incorporation of different attributes within selections, such as vegetarian and etc.
